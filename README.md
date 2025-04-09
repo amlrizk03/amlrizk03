@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Aml Rizk
 
 
-👩🏻‍💻 Software Engineering Student at Karabuk University<br>💡 Passionate about learning new technologies and constantly seeking ways to enhance my skills and knowledge.
+👩🏻‍💻 Software Engineering Student at Karabuk University<br>💡 Passionate about learning new technologies and constantly seeking ways to enhance my skills and knowledge
 
 
 ## 🌐 Socials:
@@ -17,3 +17,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" alt="C" width="50" height="50"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" alt="Java" width="50" height="50"/> &nbsp;
+
+### Databases:
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" width="50" height="50"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/> 
+
+
+### Design & Visualization:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="50" height="50"/>
